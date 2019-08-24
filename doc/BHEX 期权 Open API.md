@@ -1,6 +1,6 @@
 # BHEX API URL
 
-BHEX Open API的地址为: https://www.bhex.com/openapi
+BHEX Open API的地址为: https://www.coinerex.com/openapi
 
 # 期权公共端点
 
